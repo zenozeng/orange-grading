@@ -1,5 +1,4 @@
-orange-grading
-==============
+# orange-grading
 
 问题描述：
 输入 100g 到 600g 的橙子（正态分布），
@@ -11,3 +10,9 @@ orange-grading
 计算误差。
 
 求一种最佳的分组方法，使得其误差最小。
+
+## Ref
+
+- [Javascript 随机数函数 学习之一：产生服从均匀分布随机数](http://www.cnblogs.com/zztt/p/4024906.html)
+
+- [Javascript 随机数函数 学习之二：产生服从正态分布随机数](http://www.cnblogs.com/zztt/p/4025207.html)
