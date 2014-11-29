@@ -11,6 +11,13 @@
 
 求一种最佳的分组方法，使得其误差最小。
 
+## Run
+
+```
+sudo apt-get install r-base r-cran-rjson
+R -f generate.r
+```
+
 ## Ref
 
 - [Javascript 随机数函数 学习之一：产生服从均匀分布随机数](http://www.cnblogs.com/zztt/p/4024906.html)
